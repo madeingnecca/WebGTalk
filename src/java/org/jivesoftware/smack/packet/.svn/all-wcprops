@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet
+END
+Presence.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Presence.java
+END
+PacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/PacketExtension.java
+END
+StreamError.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/StreamError.java
+END
+RosterPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/RosterPacket.java
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Packet.java
+END
+IQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/IQ.java
+END
+DefaultPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/DefaultPacketExtension.java
+END
+Registration.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Registration.java
+END
+Bind.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Bind.java
+END
+Privacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Privacy.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/package.html
+END
+Authentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Authentication.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Session.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/Message.java
+END
+PrivacyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/PrivacyItem.java
+END
+XMPPError.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/packet/XMPPError.java
+END

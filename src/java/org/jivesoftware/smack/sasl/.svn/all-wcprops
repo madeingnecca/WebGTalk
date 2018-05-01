@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl
+END
+SASLMechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl/SASLMechanism.java
+END
+SASLAnonymous.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl/SASLAnonymous.java
+END
+SASLPlainMechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl/SASLPlainMechanism.java
+END
+SASLGSSAPIMechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl/SASLGSSAPIMechanism.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/sasl/package.html
+END

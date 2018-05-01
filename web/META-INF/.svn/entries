@@ -1,0 +1,28 @@
+8
+
+dir
+1
+http://webgtalk-svn.cvsdude.com/webgtalk/web/META-INF
+http://webgtalk-svn.cvsdude.com/webgtalk
+
+
+
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+
+
+svn:special svn:externals svn:needs-lock
+
+context.xml
+file
+
+
+
+
+2008-06-21T17:57:34.213932Z
+d9751f476fc1ed49083c03601c39bfed
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+

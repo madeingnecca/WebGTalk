@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8"><title>Google Talk</title>
+
+        <script type="text/javascript" src="js/UI/UI.js"></script>
+        <link href="css/goog.css" rel="stylesheet" type="text/css">
+        <link href="css/gooey.css" rel="stylesheet" type="text/css">
+        <link href="css/talk_styles.css" rel="stylesheet" type="text/css">
+
+        <style>
+
+        #launchBtn, #launchBtn .enabled {
+            background-color:darkblue;
+            color:white;
+            font-weight:bold;
+            height:4em;
+            width:25em;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+        }
+
+        #launchBtn .disabled {
+            background-color:#cccccc;
+        }
+
+        .frontpagelinks {
+            font-size:smaller;
+        }
+        .frontpagelinks_small {
+            font-size: .8em
+        }
+
+        .bluebox {
+            width:90%;
+            height:100px;
+            background-color:#CADEF4;
+            border:1px solid #adc1cc;
+            padding-top:20px;
+            padding-bottom:10px;
+        }
+
+        .DownloadButton
+        {
+            cursor: pointer;
+            color: #ffffff;
+            text-decoration: none;
+            padding-top:7px;
+        }
+        .ButtonLeft
+        {
+            padding: 0px;
+            width: 8px;
+            height: 40px;
+            background-repeat: no-repeat;
+        }
+        .ButtonMiddle
+        {
+            padding: 0px;
+            background-image: url(Images/button_mid2.png);
+            background-repeat: repeat-x;
+            height: 40px;
+        }
+        .ButtonRight
+        {
+            padding: 0px;
+            width: 7px;
+            height: 40px;
+            background-repeat: no-repeat;
+            color: #ffffff;
+        }
+
+        .ButtonRightBlue
+        {
+            background-image: url(/talk/images/button_right_onblue2.png);
+        }
+
+        .ButtonLeftBlue
+        {
+            background-image: url(/talk/images/button_left_onblue2.png);
+        }
+
+        .MediumBuffer
+        {
+            width: 30px;
+        }
+        .Center
+        {
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .Bold
+        {
+            font-weight: bold;
+        }
+        .Medium
+        {
+            font-size: 130%;
+        }
+    </style></head><body class="center"><a name="top"></a><div class="g-doc-800" style="position: relative;">
+
+            <div class="g-section g-tpl-160 cb">
+                <div class="g-unit g-first header"><img src="Images/titulo.png" alt="Google" height="55" width="223"></div>
+
+            </div><!-- header end -->
+            <div class="g-section g-tpl-300 cb">
+
+                <div class="g-unit g-first">
+                    <div style="float: left;"><img src="Images/googletalk.png"><br><br>
+                    </div>
+                </div>
+                <div class="g-unit">
+
+                    <div class="bluebox">
+                        <center>
+
+                            <div class="ButtonDivider">
+                                <table class="DownloadButton" summary="" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+
+                                            <td class="ButtonLeft ButtonLeftBlue">
+                                            </td><td class="ButtonMiddle MediumBuffer">
+                                            </td><td class="ButtonMiddle Medium Bold Center"><button onclick="launchApp();" id="launchBtn">Lancia applicazione</button></td>
+                                            <td class="ButtonMiddle MediumBuffer">
+                                            </td><td class="ButtonRight ButtonRightBlue">
+                                        </td></tr>
+                                </tbody></table>
+
+
+
+                            </div>
+                        </center>
+
+                    </div>
+                    <br>
+                    <h3>Con WebGTalk  potrai avere: </h3>
+                    <table width="100%">
+                        <tbody><tr><td align="center"><img src="Images/chat.gif"></td>
+                                <td>Messaggistica istantanea</td>
+                            </tr>
+                            <tr><td align="center"><img src="Images/mail1.png"></td>
+                                <td>Notifiche Gmail</td>
+                            </tr>
+                    </tbody></table>
+
+                    <br>
+
+                </div>
+
+            </div>
+
+            <div class="g-section cb">
+
+                <div class="footer">©2008 Cagnatel Lorenzo, Mastromatteo Piero, Murillo Colino Olga, Seno Damiano </div>
+            </div>
+
+        </div>
+
+
+</body></html>

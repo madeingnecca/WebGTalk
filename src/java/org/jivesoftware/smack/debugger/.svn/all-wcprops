@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/debugger
+END
+LiteDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/debugger/LiteDebugger.java
+END
+SmackDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/debugger/SmackDebugger.java
+END
+ConsoleDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/debugger/ConsoleDebugger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/debugger/package.html
+END

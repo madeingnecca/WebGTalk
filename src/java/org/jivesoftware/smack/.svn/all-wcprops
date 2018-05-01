@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack
+END
+RosterEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/RosterEntry.java
+END
+SASLAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/SASLAuthentication.java
+END
+ServerTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ServerTrustManager.java
+END
+XMPPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/XMPPException.java
+END
+PacketWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PacketWriter.java
+END
+PrivacyListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PrivacyListManager.java
+END
+XMPPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/XMPPConnection.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ConnectionListener.java
+END
+PrivacyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PrivacyList.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ChatManager.java
+END
+PacketListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PacketListener.java
+END
+NonSASLAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/NonSASLAuthentication.java
+END
+PacketCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PacketCollector.java
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/Roster.java
+END
+UserAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/UserAuthentication.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/package.html
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/Chat.java
+END
+PrivacyListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PrivacyListListener.java
+END
+ChatManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ChatManagerListener.java
+END
+ReconnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ReconnectionManager.java
+END
+RosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/RosterListener.java
+END
+PacketInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PacketInterceptor.java
+END
+SmackConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/SmackConfiguration.java
+END
+ConnectionConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ConnectionConfiguration.java
+END
+AccountManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/AccountManager.java
+END
+PacketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/PacketReader.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/MessageListener.java
+END
+ConnectionCreationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/ConnectionCreationListener.java
+END
+RosterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/RosterGroup.java
+END
+OpenTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/OpenTrustManager.java
+END

@@ -1,0 +1,28 @@
+8
+
+dir
+1
+http://webgtalk-svn.cvsdude.com/webgtalk/src/java/controller
+http://webgtalk-svn.cvsdude.com/webgtalk
+
+
+
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+
+
+svn:special svn:externals svn:needs-lock
+
+ProxyServlet.java
+file
+9
+
+
+
+2008-06-28T15:09:02.792400Z
+1318962a776deb251de880ee4d36dccb
+2008-06-28T15:21:52.282440Z
+9
+webgtalk
+

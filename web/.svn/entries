@@ -1,0 +1,55 @@
+8
+
+dir
+1
+http://webgtalk-svn.cvsdude.com/webgtalk/web
+http://webgtalk-svn.cvsdude.com/webgtalk
+
+
+
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+
+
+svn:special svn:externals svn:needs-lock
+
+META-INF
+dir
+
+webgtalk.html
+file
+4
+
+
+
+2008-06-28T08:37:15.029897Z
+57a6957d750cb8d12701c7ecee6e0e49
+2008-06-28T14:02:29.716782Z
+4
+webgtalk
+
+Images
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+index.html
+file
+13
+
+
+
+2008-06-28T15:41:53.195700Z
+b6037feea923d6ebc6c698861cb3a694
+2008-06-28T15:54:32.229226Z
+13
+webgtalk
+
+js
+dir
+

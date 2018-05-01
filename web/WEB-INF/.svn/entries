@@ -1,0 +1,28 @@
+8
+
+dir
+1
+http://webgtalk-svn.cvsdude.com/webgtalk/web/WEB-INF
+http://webgtalk-svn.cvsdude.com/webgtalk
+
+
+
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+
+
+svn:special svn:externals svn:needs-lock
+
+web.xml
+file
+
+
+
+
+2008-06-21T17:57:34.213932Z
+84814373166e8897362c6051db5cab08
+2008-06-28T13:28:33.066260Z
+1
+webgtalk
+

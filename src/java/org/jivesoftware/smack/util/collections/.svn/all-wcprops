@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections
+END
+AbstractReferenceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/AbstractReferenceMap.java
+END
+AbstractMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/AbstractMapEntry.java
+END
+DefaultMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/DefaultMapEntry.java
+END
+ResettableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/ResettableIterator.java
+END
+IterableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/IterableMap.java
+END
+KeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/KeyValue.java
+END
+EmptyMapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/EmptyMapIterator.java
+END
+MapIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/MapIterator.java
+END
+EmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/EmptyIterator.java
+END
+AbstractKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/AbstractKeyValue.java
+END
+AbstractEmptyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/AbstractEmptyIterator.java
+END
+ReferenceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/ReferenceMap.java
+END
+AbstractHashedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/webgtalk/!svn/ver/1/src/java/org/jivesoftware/smack/util/collections/AbstractHashedMap.java
+END
