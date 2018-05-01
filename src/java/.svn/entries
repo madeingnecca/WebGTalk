@@ -1,22 +1,0 @@
-8
-
-dir
-1
-http://webgtalk-svn.cvsdude.com/webgtalk/src/java
-http://webgtalk-svn.cvsdude.com/webgtalk
-
-
-
-2008-06-28T13:28:33.066260Z
-1
-webgtalk
-
-
-svn:special svn:externals svn:needs-lock
-
-controller
-dir
-
-org
-dir
-
